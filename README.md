@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on vending machine system
+- 🌱 I’m currently learning about distributed system architecture
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/thanabut-jaithima-124084116/)
 
 <!--
 **ThanabutJ/thanabutj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
